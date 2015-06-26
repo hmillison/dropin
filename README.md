@@ -3,6 +3,8 @@
 
 A no thought CSS framework for single page apps and websites.
 
+See a [demo](http://hmillie.io/dropin/) here!
+
 Inspired by [Ordered List's Minimal Theme ](https://github.com/orderedlist/minimal) and [Gloss CSS](https://github.com/arirawr/gloss-css/)
 
 ### Why make this?
